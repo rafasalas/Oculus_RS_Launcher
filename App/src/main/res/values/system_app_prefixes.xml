@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="system_app_prefixes">
+        <item>com.facebook.arvr</item>
+        <item>com.meta.AccountsCenter.pwa</item>
+        <item>com.meta.environment</item>
+        <item>com.oculus.accountscenter</item>
+        <item>com.oculus.avatar2</item>
+        <item>com.oculus.environment</item>
+        <item>com.oculus.helpcenter</item>
+        <item>com.oculus.mobile_mrc_setup</item>
+        <item>com.oculus.remotedesktop</item>
+        <item>com.oculus.systemutilities</item>
+        <item>com.pico</item>
+        <item>com.pvr</item>
+        <item>metapwa</item>
+        <item>oculuspwa</item>
+        <item>com.monotype.android.font</item>
+        <item>com.samsung.android.filter</item>
+        <item>com.samsung.SMT.lang</item>
+        <item>com.candycamera.android.filter</item>
+        <item>eu.kanade.tachiyomi.extension</item>
+        <item>com.mixplorer.addon</item>
+        <item>com.ghisler.tcplugins</item>
+    </string-array>
+</resources>
